@@ -2,7 +2,7 @@
      Oi, sou Isabela!
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Praticando Java, HTML, CSS, JavaScript, React, React-Native, Python, IA e SQL
-- 🤔 Descobrindo se gosto mais de front ou back-end!
+- 🤔 Descobrindo do que gosto mais!
 
 <br>
 
