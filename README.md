@@ -1,8 +1,5 @@
 
-     Oi, sou a Isabela!
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Praticando Python, Java, HTML, CSS, JavaScript, React, React-Native, IA e SQL
-- 🤔 Descobrindo do que gosto mais!
+##     Oii, eu sou a Isabela
 
 <br>
 
